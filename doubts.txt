@@ -1,0 +1,3 @@
+Do we need to close every class object we create?
+A. File descriptor limit 
+What is var?
